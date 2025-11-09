@@ -112,7 +112,7 @@ body {
   background-color: var(--green-700);
 }
 
-@media (min-width: 376px) {
+@media (min-width: 1440px) {
   .product-card {
     flex-flow: row nowrap;
     width: 40%;
